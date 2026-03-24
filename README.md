@@ -4,11 +4,7 @@ Repositorio de la clase de introducción a ciencia de datos
 este es un ensayo Nro. 001
 
 # Título principal (H1)
-## Subtítulo (H2)
-### Sub-subtítulo (H3)
-#### Nivel 4 (H4)
-##### Nivel 5 (H5)
-###### Nivel 6 (H6)
+
 
 Imagen simple
 ![Texto alternativo](https://raw.githubusercontent.com/damumo16/cd_intro_20260324/refs/heads/main/Captura%20de%20pantalla%202026-01-28%20211348.png)
