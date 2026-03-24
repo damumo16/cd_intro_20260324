@@ -1,7 +1,6 @@
 # cd_intro_20260324
 Repositorio de la clase de introducción a ciencia de datos 
-# ensayo001
-este es un ensayo Nro. 001
+
 
 # Título principal (H1)
 
