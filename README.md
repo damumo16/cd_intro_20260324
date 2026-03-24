@@ -11,7 +11,7 @@ este es un ensayo Nro. 001
 ###### Nivel 6 (H6)
 
 Imagen simple
-![Texto alternativo](carrito01.jpg)
+![Texto alternativo](https://raw.githubusercontent.com/damumo16/cd_intro_20260324/refs/heads/main/Captura%20de%20pantalla%202026-01-28%20211348.png)
 
 Imagen desde URL externa
 ![Logo](https://github.com/rotabori/ensayo001/blob/main/carrito01.jpg)
